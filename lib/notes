@@ -1,0 +1,5 @@
+- there is a better thing like media query is screen utils
+- In the ScreenUtilInit(
+               designSize: const Size(360, 690), <- get this from figma
+               minTextAdapt: true, <- adapt the text size with the widget size
+               splitScreenMode: true,
